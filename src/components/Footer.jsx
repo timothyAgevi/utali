@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="container py-1">
                 <div className="row">
                     <div className="col-md-6 col-12 my-auto">
-                        <small>Copyright &copy; Emmanuel Odero</small>
+                        <small>Copyright &copy; Timothy Agevi</small>
                     </div>
                     <div className="col-md-6 col-12">
                         <div className="d-flex float-right">

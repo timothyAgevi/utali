@@ -35,7 +35,7 @@ return (
                     <button className="btn btn-outline-dark btn-lg btn-block">Send Message</button>
                 </div>
                 <div className="col-md-6 col-12 my-auto">
-                        <small>Email &copy; emmanuelodero808@gmail.com</small>
+                        <small>Email &copy; timothyagevi@gmail.com</small>
                 </div>
             </div>
         </div>
